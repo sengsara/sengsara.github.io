@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `wijayadi`,
-    author: `Wijayadi`,
-    description: 'My personal projects.',
-    siteUrl: `https://wijayadi.github.io/`,
+    title: `sengsara`,
+    author: `Sengsara`,
+    description: 'Sengsara projects.',
+    siteUrl: `https://sengsara.github.io/`,
     social: {
-      twitter: `wijayadi`,
+      twitter: `sengsara`,
     },
   },
   plugins: [
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Sengsara Blog`,
+        short_name: `Sengsara`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
